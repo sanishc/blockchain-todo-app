@@ -6,4 +6,4 @@ A TodoList App using BlockChain Technology
 
 ## About
 
-Blockchain-Todo is a web3.0 todo list application.
+Blockchain-Todo is a web3.0 todo list application
